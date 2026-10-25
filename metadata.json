@@ -1,0 +1,6 @@
+{
+  "name": "PulseMind: Vitals & AI Task-Master",
+  "description": "Android health companion featuring biosensor telemetry, an adaptive AI Task-Master planner, vitals-aware metabolic diet suggestions, and a gamified rewards milestone system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
